@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Reet Aggarwal 👋
+
+
+Glad to see you here!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
 
 <!--
 **Reet04/reet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
